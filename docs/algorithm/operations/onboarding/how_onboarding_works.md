@@ -6,7 +6,7 @@ grand_parent: Algorithm
 nav_order: 1
 ---
 
-You should have already filled out the Google Form to join the team (if not, DM `@tomdonel`). Within 48 hours of filling out the form, you will receive an email with your login information to the development server.
+You should have already filled out the Google Form to join the team. Within 48 hours of filling out the form, you will receive an email with your login information to the development server.
 
 ***
 
@@ -30,6 +30,6 @@ For your login information:
 	
 ***
 
-You should now get started on your onboarding project! See [your onboarding project's README](https://gitlab.com/robomaster-club/onboarding-setup-2024/-/tree/main?ref_type=heads) for more details!
+You should now get started on your onboarding project!
 
 
